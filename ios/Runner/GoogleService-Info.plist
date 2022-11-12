@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>184871826044-ss2pfu4uk12fsv3m99l9r73k2r1ouilo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.184871826044-ss2pfu4uk12fsv3m99l9r73k2r1ouilo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByc4RgOxjxx6GW4pR1C29O7G_zHbGAX98</string>
+	<key>GCM_SENDER_ID</key>
+	<string>184871826044</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterPushNotification</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-backproducts</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-backproducts.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:184871826044:ios:53b3449456bf9d5b0f8ff9</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-backproducts-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
